@@ -40,8 +40,4 @@ module.exports = {
 
 
 
-📚 Usage
-After setting up the Tailwind CSS configuration, you can start exploring and developing the website clones. Each website clone is located in its respective directory.
 
-🤝 Contributing
-Contributions are welcome! Feel free to fork this repository, make enhancements, and create pull requests. Let's make this project even better together!
